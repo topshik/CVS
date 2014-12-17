@@ -7,6 +7,9 @@ source_dir = os.path.dirname(os.path.abspath(__file__))
 
 if command == 'init':
     os.mkdir('mycvs')
+    os.chdir('mycvs')
+    number = open('number.txt', 'w')
+    number.write('0\n')
 
 if command == 'commit':
     #create a directory for commit
