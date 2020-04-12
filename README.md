@@ -1,6 +1,5 @@
-# CVS
-
-Here you can see version control system I implemented.
+# VCS
+Here you can see version control system I implemented as a part of school homework.
 
 ### Instruction
-main.py is the file using which you can test my cvs. Run mycvs.py and use functions that I implemented
+main.py is the file using which you can test the VCS. Run mycvs.py and try implemented functions.
